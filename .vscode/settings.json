@@ -1,7 +1,0 @@
-{
-    "editor.defaultFormatter": "charliermarsh.ruff",
-    "editor.wordWrap": "on",
-    "editor.wrappingIndent": "indent",
-    "diffEditor.wordWrap": "on",
-    "editor.inlineSuggest.edits.allowCodeShifting": "never"
-}
