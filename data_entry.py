@@ -1,5 +1,4 @@
 from datetime import datetime
-from sre_parse import CATEGORIES
 
 date_format = "%d-%m-%Y"
 CATEGORIES = {"I": "Income", "E": "Expense"}
