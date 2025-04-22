@@ -2,8 +2,13 @@
 name = "personal-finance-tracker"
 version = "0.1.0"
 description = "Add your description here"
+authors = [
+    { name = "António Lopes",email = "faithmakerneo@gmail.com" },
+]
+license = {text = "Proprietary"}
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.10"
 dependencies = [
+    "matplotlib>=3.10.1",
     "pandas>=2.2.3",
 ]
