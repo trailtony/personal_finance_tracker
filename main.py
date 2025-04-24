@@ -79,7 +79,7 @@ def plot_transactions(df):
     plt.title("Income and Expenses Over Time")
     plt.legend()
     plt.grid(True)
-    plt.show
+    plt.show()
 
 
 def main() -> None:
