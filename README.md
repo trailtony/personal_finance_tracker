@@ -62,4 +62,4 @@ When enabled, the app will generate a plot showing income and expenses by day, u
 
 ## 📄 License
 
-MIT License — Feel free to use and modify!
+GNU General Public License v3.0 — Feel free to use and modify!
